@@ -1,0 +1,7 @@
+.next
+node_modules
+package-lock.json
+coverage
+next-env.d.ts
+# Docs are partly Persian prose; keep their hand formatting.
+*.md
